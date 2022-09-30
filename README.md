@@ -33,8 +33,6 @@ cookiecutter https://github.com/hashref/python-cookiecutter-templates --director
 pipenv install --dev
 ```
 
-## `
-
 ### Python 100 Days of Code
 
 Built from the sparse template, I use this to create projects for the udemy [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) course. It's basically the `sparse` template with the standardized README.md file that I use for all these projects.

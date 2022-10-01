@@ -1,6 +1,7 @@
 {
   "project_name": "Sparse Template",
   "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"],
-  "github_username": "GitHub UserName"
+  "full_name": "Full Name",
+  "github_username": "GitHub UserName",
+  "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"]
 }

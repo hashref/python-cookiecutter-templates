@@ -31,6 +31,7 @@ A sparse template for general purpose projects that can be built from the ground
 ```sh
 cookiecutter https://github.com/hashref/python-cookiecutter-templates --directory sparse
 pipenv install --dev
+pre-commit install
 ```
 
 ### Python 100 Days of Code
@@ -57,6 +58,7 @@ Built from the sparse template, I use this to create projects for the udemy [100
 ```sh
 cookiecutter https://github.com/hashref/python-cookiecutter-templates --directory python-100-days-of-code
 pipenv install --dev
+pre-commit install
 ```
 
 ## License
